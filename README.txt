@@ -1,0 +1,1 @@
+usage: sort-it -a | -d  -i | -s out.txt in1.txt in2.txt
